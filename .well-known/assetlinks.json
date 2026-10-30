@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.offsitebimcraft.xaber",
+      "sha256_cert_fingerprints": [
+        "11:03:68:6B:36:56:2E:19:DA:20:6F:E8:48:BE:0E:1D:8D:24:CD:DD:2B:A5:19:43:9E:D8:2C:44:8B:04:A0:E8"
+      ]
+    }
+  }
+]
